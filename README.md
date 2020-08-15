@@ -10,7 +10,7 @@ Module 3 UTMCC_DataViz python
   4. Summary 
 
 ---
-  *A Report for the* ![SOS_CO_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/SOS_CO_1.png)
+
 ## 1. Project Overview
 
 ### **Purpose**    
@@ -89,4 +89,7 @@ Statement to the election commission that explores how this automated script can
 2. example 2 bcd 
 
 
+.
+  *A Report for the* ![SOS_CO_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/SOS_CO_1.png)
+  
 .end
