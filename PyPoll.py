@@ -16,7 +16,7 @@ candidate_options = []
    # Declare an empty dictionary for Candidate Votes.
 candidate_votes = {}
 
-# Winning Candidate and Winning Count Tracker
+# Tracking the Winning: Candidate, Vote Count, and Percentage Vote.
 winning_candidate = ""
 winning_count = 0
 winning_percentage = 0
@@ -56,8 +56,7 @@ with open(file_to_load) as election_data:
         # Calculate % of votes.
         vote_percentage = float(votes) / float(total_votes) * 100
         
-        # To do: print out each candidate's name, vote count, and percentage of
-        # votes to the terminal.
+        # Print out each candidate's name, vote count, and percentage of votes.
         print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
         # Determine winning vote count and candidate.
@@ -70,7 +69,7 @@ with open(file_to_load) as election_data:
             # And set the winning_candidate equal to the candidate's name.
             winning_candidate = candidate_name
 
-#  To do: print out the winning candidate, vote count and percentage to terminal.
+# Print out the winning candidate, vote count and percentage to terminal.
 
     winning_candidate_summary = (
         f"-------------------------\n"
