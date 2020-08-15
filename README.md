@@ -10,21 +10,20 @@ Module 3 UTMCC_DataViz python
   4. Summary 
 
 ---
-![SOS_CO_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/SOS_CO_1.png)
+  *A Report for the* ![SOS_CO_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/SOS_CO_1.png)
 ## 1. Project Overview
 
 ### **Purpose**    
 
-The Colorado Secretary of State is responsible for elections, and an employee if the Board of Elections, Tom.
+The Colorado Secretary of State is responsible for elections, and an employee of the Board of Elections, Tom has requested that we assist him with providing election data analysis audit for a recent congressional race. 
 
-Tom has specifically requested that we assist him with providing election data analysis and audit for a specific and recent congressional race. and, that the audit would be automated utilizing Python programming, versus the current method of using Excel.
-Another stated purpose of the project is to create an automated process of analyzing election results for other future elections within the state.  
+Tom's request includes that we build the analysi and audit tools that would allow it to be automated, utilizing Python programming, and to replace the current method of using Excel. An automated process would be used for analyzing election results for other future elections within the state.  
 
- This report is a written summary analysis of the requested election audit, with the purpose to accurately and quickly report on election results using the provided data.  
+This report is a written summary analysis of the requested election audit, with the purpose to accurately and quickly report on election results using the provided data.  
 
 ### **Objectives**
 
-and provide an audit report on the voting volume, per county and per candidate, and to visually show the election results for each candidate and to indicate the winning candidate. 
+The audit report is to include the voting volume counts, vote counts per county and per candidate, and to visually show the election results for each candidate, and to indicate the winning candidate. 
 
 .
 ---
@@ -65,7 +64,7 @@ Please see Figure-2 below.
 
 |  **Winning Candidate** | **Winning Number of Votes Counted** | **Percentage of Votes Counted** |
 | :---         |     :---:      |          :---: |
-| Diana DeGette | 272,892 | 73.8% |
+| **Diana DeGette** | 272,892 | 73.8% |
 
 
 ---
