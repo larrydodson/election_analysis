@@ -22,11 +22,11 @@ This report is a written summary analysis of the requested election audit, with 
 
 ### **Objectives**
 
-The audit report is to present the:
+This Audit Report is to present the following results:
   - voting volume counts 
   - vote counts per county 
   - vote counts per candidate
-  - to visually show the election results for each candidate
+  - visually show the election results for each candidate
   - to indicate the winning candidate. 
 
 
@@ -46,16 +46,16 @@ The audit report is to present the:
     * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 
-**Figure-1** Election Subjects, Colorado Counties Arapahoe, Denver, Jefferson  ![counties_map.png](https://github.com/larrydodson/election_analysis/blob/master/resources/counties_map.png)
+**Figure-1** Election Subjects, Colorado Counties of Arapahoe, Denver, Jefferson  ![counties_map.png](https://github.com/larrydodson/election_analysis/blob/master/resources/counties_map.png)
 
 
 In Figure-2, below, we see 
 
 | Python Code - Automated Output | **Terminal Output** | **Text File Output** |
 | :---:        |     :---:      |          :---: |
-| . | ![election_results_terminal.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_terminal.png) | ![election_results_txtfile.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_txtfile.png) |
+|  | ![election_results_terminal.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_terminal.png) | ![election_results_txtfile.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_txtfile.png) |
 
-**Figure-2** "Analysis Results"
+**Figure-2** Election Analysis Results Automated Output
 
 
 
@@ -72,16 +72,16 @@ Please see Figure-3 below.
 | :---         |     :---:      |          :---: |
 | **Diana DeGette** | 272,892 | 73.8% |
 
-**Figure-3** "Election Results"
+**Figure-3** Election Results
+
+
 ---
 ## 4. Summary of the Election Audit 
 
-In Figure-4, we see 
-
+Please see Figure-4 below.
   
 - **Voting and Counties** 
   In general refa
-  
   
 
 - **Candidates**
@@ -92,7 +92,8 @@ In Figure-4, we see
 | :---         |     :---:      |          :---: |
 |  | ![County_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/County_votes_pie.png) | ![Candidate_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/Candidate_votes_pie.png) |
 
-In Figure-4, we see 
+**Figure-4** Voting Results
+
 
 - **Winner**
   As a list, re
