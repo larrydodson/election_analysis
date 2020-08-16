@@ -16,7 +16,7 @@ Module 3 UTMCC_DataViz python
 
 The Colorado Secretary of State is responsible for its elections, and an employee of the Board of Elections, Tom, has requested our assistance with providing an election data analysis audit for a recent congressional race. 
 
-Tom's request includes that we build analysis and audit tools that would allow his office to have an automated process utilizing Python programming. The goal for automation is to replace the current manual method of using Excel, and to improve the accuracy and quality of the elections results. An automated process would be used for analyzing election results for future elections within Colorado.  
+Tom's request includes that we build analysis and audit tools that would allow his office to have an automated process utilizing Python programming. The goal for automation is to replace the current manual method of using Excel, improving the accuracy and quality of the elections results. An automated process would be used for analyzing election results for future elections within Colorado.  
 
 This report is a written summary analysis of the requested election audit, with the purpose to report on election results using the provided data accurately and quickly.  
 
@@ -62,8 +62,8 @@ In Figure-2, below, we see
 Please see Figure-3 below. 
 
 **Election Results**
-| ![COseal_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/COseal_1.png) .  **Candidate** | **Number of Votes Counted** | **Percentage of Votes Counted** |
-| :---         |     :---:      |          :---: |
+| ![COseal_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/COseal_1.png)  **Candidate** | **Number of Votes Counted** | **Percentage of Votes Counted** |
+| :---       |     :---:      |          :---: |
 | Charles Casper Stockham | 85,213 | 23.0% |
 | Diana DeGette | 272,892 | 73.8% |
 | Raymon Anthony Doane | 11,606 | 3.1% |
@@ -78,28 +78,28 @@ Please see Figure-3 below.
 ---
 ## 4. Summary of the Election Audit 
 
-Please see Figure-4 below.
+  Please see Figure-4 below.
   
-- **Voting and Counties** 
-  In general refa
-  
-
-- **Candidates**
-  As a list, re
-  
-  
-| **Voting Results** | **Counties** | **Candidates** |
+  | **Voting Results** | **Counties** | **Candidates** |
 | :---         |     :---:      |          :---: |
 |  | ![County_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/County_votes_pie.png) | ![Candidate_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/Candidate_votes_pie.png) |
 
 **Figure-4** Voting Results
+  
+###**Voting and Counties** -- In general refa
+  
+
+###**Candidates** -- As a list, re
+  
+  
 
 
-- **Winner**
-  As a list, re
+
+###**Winner** --  As a list, re
 
 
-- **Proposal for Follow-on Actions for Election Analysis Automation**
+###**Proposal for Follow-on Actions for Election Analysis Automation**
+
   Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
   * example-1
   * example-2
