@@ -14,11 +14,11 @@ Module 3 UTMCC_DataViz python
 
 ### **Purpose**    
 
-The Colorado Secretary of State is responsible for elections, and an employee of the Board of Elections, Tom has requested that we assist him with providing election data analysis audit for a recent congressional race. 
+The Colorado Secretary of State is responsible for its elections, and an employee of the Board of Elections, Tom, has requested our assistance with providing an election data analysis audit for a recent congressional race. 
 
-Tom's request includes that we build the analysis and audit tools that would allow it to be automated, utilizing Python programming, with the goal to replace the current manual method of using Excel. An automated process would be used for analyzing election results for other future elections within the state.  
+Tom's request includes that we build analysis and audit tools that would allow his office to have an automated process utilizing Python programming. The goal for automation is to replace the current manual method of using Excel, and to improve the accuracy and quality of the elections results. An automated process would be used for analyzing election results for future elections within Colorado.  
 
-This report is a written summary analysis of the requested election audit, with the purpose to accurately and quickly report on election results using the provided data.  
+This report is a written summary analysis of the requested election audit, with the purpose to report on election results using the provided data accurately and quickly.  
 
 ### **Objectives**
 
@@ -51,7 +51,7 @@ This Audit Report is to present the following results:
 
 In Figure-2, below, we see 
 
-| Python Code - Automated Output | **Terminal Output** | **Text File Output** |
+| Python Code - Automated Output | **Terminal Command Line Output** | **Text File Output** |
 | :---:        |     :---:      |          :---: |
 |  | ![election_results_terminal.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_terminal.png) | ![election_results_txtfile.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_txtfile.png) |
 
@@ -99,9 +99,10 @@ Please see Figure-4 below.
   As a list, re
 
 
-Proposal for Follow-on Actions for Election Analysis Automation.  Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
-1. exmaple 1 abc
-2. example 2 bcd 
+- **Proposal for Follow-on Actions for Election Analysis Automation**
+  Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
+  * example-1
+  * example-2
 
 
 
