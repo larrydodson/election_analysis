@@ -18,7 +18,7 @@ The Colorado Secretary of State is responsible for its elections, and an employe
 
 Tom's request includes that we build analysis and audit tools that would allow his office to have an automated process utilizing Python programming. The goal for automation is to replace the current manual method of using Excel, improving the accuracy and quality of the elections results. An automated process would be used for analyzing election results for future elections within Colorado.  
 
-This report is a written summary analysis of the requested election audit project, with the purpose to report on election results using the provided data accurately and quickly.  
+This report is a written summary analysis of the election audit project, with the purpose to report on election results using the provided data accurately and quickly.  
 
 **Figure-1** Election Subjects, Colorado Counties of Arapahoe, Denver, Jefferson  ![counties_map.png](https://github.com/larrydodson/election_analysis/blob/master/resources/counties_map.png)
 
@@ -41,14 +41,16 @@ This Audit Report presents the following results:
 ---
 ## 3. Results: Analysis of the Election Audit
 
-  In Figure-2, below, we see the results of running the new automated Python script program on the available data for the three counties. The first view in the figure is for the Terminal Command Line Output. The second image is for the Text File Output. The code was succesful in the execution for both outputs as requested, and the election's full requested results are shown. 
+  In Figure-2, below, we see the results of running the new automated Python script program on the available data for the three counties. The first view in the figure is for the Terminal Command Line Output. The second image is for the Text File Output. The code was succesful in the execution for both outputs, and the election's full requested results are shown. 
 
 | Python Code - Automated Output | **Terminal Command Line Output** | **Text File Output** |
 | :---:        |     :---:      |          :---: |
 |  | ![election_results_terminal.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_terminal.png) | ![election_results_txtfile.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_txtfile.png) |
 
 **Figure-2** Election Analysis Results Automated Output
+.
 
+.
 
   In Figure-3 below, the table is a view of the analysis results.
 
@@ -96,8 +98,8 @@ This Audit Report presents the following results:
 
 ### Challenge Learnings
 
-  In this Challenge, we have learned to obtain data from a csv file and have the data available for our analysis using Python scripts. Importantly, we also learned to write data and our script's output to a separagte file, in this case a text file. 
-  Below are samples of the script code that we used in Figure-5. 
+  In this Challenge, we have learned to obtain data from a csv file and have the data available for our analysis using Python scripts. Importantly, we also learned to write from our script's output to a separate text file. 
+  In Figure-5 below are samples of the script code. 
 
 
 
@@ -108,6 +110,8 @@ This Audit Report presents the following results:
 
 
 
+
+.
 
 *A Report for the Office of*  ![SOS_CO_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/SOS_CO_1.png)  
 
