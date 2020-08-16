@@ -94,8 +94,8 @@ This Audit Report presents the following results:
 
   Proposal to the Board of Elections: The new Election Analysis and Audit Program, run in Python, was successful in automating the election count process and accurately determining the winner. In order to use the Program for any future elections, we propose that it be updated and improved in these two example areas.:  
   
-  - Data entry: The script code can be modified to be able to input data from any typical data source that the Board of Elections has avialble, not only as data from csv files. As examples, 1) Data input from manual entry from mail-in-ballots, with and enhanced manual entry from keyboard or touch screen, for from scanning a ballot with a digital-scanner that is then converted to the appropriate data file format. 
-  - example-2
+  - Data entry: The script code can be modified with the ability to input data from any typical data source that the Board of Elections has avialable, with the example of manual data input that has been required from mail-in-ballots, whre the manual entry is included within the code as from a keyboard or touch screen.
+  - To test and improve the code for increased capacity and reliability. When the expectatio of using the automated solution for all counties in the state, there will be much higher data file sizes, and this will indicate an increased need for processing power and time. The code can be modified, or scaled up, and tested for reliability and accuracy for the time it will used for the entire state elections.
 
 
 ### Challenge Learnings
@@ -104,7 +104,7 @@ This Audit Report presents the following results:
   In Figure-5 below are samples of the script code. 
 
 
-| **Code example** | **accessing csv file data and converting to a dictionary** | **writing to a text file** |
+| **Code example** | **accessing csv file data using the CSV Module, and converting to a dictionary** | **writing to a text file with the write function** |
 | :---         |     :---:      |          :---: |
 |  | ![gettingfrom_csv.png](https://github.com/larrydodson/election_analysis/blob/master/resources/gettingfrom_csv.png) | ![writingto_txt.png](https://github.com/larrydodson/election_analysis/blob/master/resources/writingto_txt.png) |
 |  |  |  |
