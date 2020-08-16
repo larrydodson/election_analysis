@@ -86,19 +86,23 @@ Please see Figure-3 below.
 
 **Figure-4** Voting Results
   
-###**Voting and Counties** -- In general refa
+### Voting and Counties
+
+    In general refa
   
 
-###**Candidates** -- As a list, re
-  
-  
+### Candidates
+
+    As a list, re
 
 
 
-###**Winner** --  As a list, re
+### Winner
+
+    As a list, re
 
 
-###**Proposal for Follow-on Actions for Election Analysis Automation**
+### Proposal for Follow-on Actions for Election Analysis Automation
 
   Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
   * example-1
