@@ -48,7 +48,7 @@ This Audit Report presents the following results:
 |  | ![election_results_terminal.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_terminal.png) | ![election_results_txtfile.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_txtfile.png) |
 
 **Figure-2** Election Analysis Results Automated Output
-.
+
 
 .
 
@@ -73,7 +73,7 @@ This Audit Report presents the following results:
 ---
 ## 4. Summary of the Election Audit 
 
-  From the Figures above, and also referencing Figure-4 below, we summarize the Results and findings of this audit. In this election: 
+  From the Figures above, and referencing Figure-4 below, we summarize the Results and findings of this audit. In this election: 
   - total votes = 369,711 votes
   - for each of the three counties: 
       - Arapahoe: 24,801 votes at 6.7% of the total votes
@@ -90,11 +90,13 @@ This Audit Report presents the following results:
 **Figure-4** Voting Results
 
 
-### Proposal for Follow-on Actions for Election Analysis Automation
+### Recommendation for Next-step Actions for Election Analysis Automation
 
-  Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
-    * example-1 how this script can be modified to be used for any other elections
-    * example-2
+  Proposal to the Board of Elections: The new Election Analysis and Audit Program, run in Python, was successful in automating the election count process and accurately determining the winner. In order to use the Program for any future elections, we propose that it be updated and improved in these two example areas.:  
+  
+  - Data entry: The script code can be modified to be able to input data from any typical data source that the Board of Elections has avialble, not only as data from csv files. As examples, 1) Data input from manual entry from mail-in-ballots, with and enhanced manual entry from keyboard or touch screen, for from scanning a ballot with a digital-scanner that is then converted to the appropriate data file format. 
+  - example-2
+
 
 ### Challenge Learnings
 
@@ -102,9 +104,11 @@ This Audit Report presents the following results:
   In Figure-5 below are samples of the script code. 
 
 
-
-| **Code example** | **accessing csv file data** | **writing to a text file** |
+| **Code example** | **accessing csv file data and converting to a dictionary** | **writing to a text file** |
 | :---         |     :---:      |          :---: |
+|  | ![gettingfrom_csv.png](https://github.com/larrydodson/election_analysis/blob/master/resources/gettingfrom_csv.png) | ![writingto_txt.png](https://github.com/larrydodson/election_analysis/blob/master/resources/writingto_txt.png) |
+|  |  |  |
+
 
 **Figure-5** Challenge Python script examples.
 
@@ -112,6 +116,7 @@ This Audit Report presents the following results:
 
 
 .
+
 
 *A Report for the Office of*  ![SOS_CO_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/SOS_CO_1.png)  
 
