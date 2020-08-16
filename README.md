@@ -85,29 +85,25 @@ Please see Figure-3 below.
 |  | ![County_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/County_votes_pie.png) | ![Candidate_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/Candidate_votes_pie.png) |
 
 **Figure-4** Voting Results
-  
+
+
 ### Voting and Counties
 
     In general refa
-  
 
 ### Candidates
 
     As a list, re
 
-
-
 ### Winner
 
     As a list, re
 
-
 ### Proposal for Follow-on Actions for Election Analysis Automation
 
   Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
-  * example-1
-  * example-2
-
+    * example-1
+    * example-2
 
 
   *A Report for the Office of*  ![SOS_CO_1.png](https://github.com/larrydodson/election_analysis/blob/master/resources/SOS_CO_1.png)
