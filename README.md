@@ -29,7 +29,7 @@ The audit report is to present the:
   - to visually show the election results for each candidate
   - to indicate the winning candidate. 
 
-.
+
 ---
 ## 2. Resources 
 
@@ -46,20 +46,16 @@ The audit report is to present the:
     * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 
-Figure-1, Colorado Counties Election Subjects  ![counties_map.png](https://github.com/larrydodson/election_analysis/blob/master/resources/counties_map.png)
-
+**Figure-1** Election Subjects, Colorado Counties Arapahoe, Denver, Jefferson  ![counties_map.png](https://github.com/larrydodson/election_analysis/blob/master/resources/counties_map.png)
 
 
 In Figure-2, below, we see 
 
-| . | Python Code - Automated Output | . |
+| Python Code - Automated Output | **Terminal Output** | **Text File Output** |
 | :---:        |     :---:      |          :---: |
 | . | ![election_results_terminal.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_terminal.png) | ![election_results_txtfile.png](https://github.com/larrydodson/election_analysis/blob/master/resources/election_results_txtfile.png) |
-| . | Terminal Output | Text File Output |
 
 **Figure-2** "Analysis Results"
-
-
 
 
 
@@ -72,13 +68,11 @@ Please see Figure-3 below.
 | Diana DeGette | 272,892 | 73.8% |
 | Raymon Anthony Doane | 11,606 | 3.1% |
 
-**Figure-3** "Election Results"
-
 |  **Winning Candidate** | **Winning Number of Votes Counted** | **Percentage of Votes Counted** |
 | :---         |     :---:      |          :---: |
 | **Diana DeGette** | 272,892 | 73.8% |
 
-
+**Figure-3** "Election Results"
 ---
 ## 4. Summary of the Election Audit 
 
@@ -94,7 +88,7 @@ In Figure-4, we see
   As a list, re
   
   
-| Voting | Counties | Candidates |
+| **Voting Results** | **Counties** | **Candidates** |
 | :---         |     :---:      |          :---: |
 |  | ![County_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/County_votes_pie.png) | ![Candidate_votes_pie.png](https://github.com/larrydodson/election_analysis/blob/master/resources/Candidate_votes_pie.png) |
 
@@ -104,7 +98,7 @@ In Figure-4, we see
   As a list, re
 
 
-Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
+Proposal for Follow-on Actions for Election Analysis Automation.  Statement to the election commission that explores how this automated script can be used for any election, with two examples for modifying the script.
 1. exmaple 1 abc
 2. example 2 bcd 
 
