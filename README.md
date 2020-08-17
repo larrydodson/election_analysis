@@ -104,9 +104,9 @@ This Audit Report presents the following results:
   In Figure-5 below are samples of the script code. 
 
 
-| **Code example** | **accessing csv file data using the CSV Module, and converting to a dictionary** | **writing to a text file with the write function** |
+| **coding function** | **accessing csv file data using the CSV Module, and converting to a dictionary** | **writing to a text file with the write function** |
 | :---         |     :---:      |          :---: |
-|  | ![gettingfrom_csv.png](https://github.com/larrydodson/election_analysis/blob/master/resources/gettingfrom_csv.png) | ![writingto_txt.png](https://github.com/larrydodson/election_analysis/blob/master/resources/writingto_txt.png) |
+| code examples | ![gettingfrom_csv.png](https://github.com/larrydodson/election_analysis/blob/master/resources/gettingfrom_csv.png) | ![writingto_txt.png](https://github.com/larrydodson/election_analysis/blob/master/resources/writingto_txt.png) |
 |  |  |  |
 
 
