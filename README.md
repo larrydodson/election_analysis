@@ -41,7 +41,7 @@ This Audit Report presents the following results:
 ---
 ## 3. Results: Analysis of the Election Audit
 
-  In Figure-2, below, we see the results of running the new automated Python script program on the available data for the three counties. The first view in the figure is for the Terminal Command Line Output. The second image is for the Text File Output. The code was succesful in the execution for both outputs, and the election's full requested results are shown. 
+  In Figure-2, below, we see the results of running the new automated Python script program on the available data for the three counties. The first view in the figure is for the Terminal Command Line Output. The second image is for the Text File Output. The code was successful in the execution for both outputs, and the election's full requested results are shown. 
 
 | Python Code - Automated Output | **Terminal Command Line Output** | **Text File Output** |
 | :---:        |     :---:      |          :---: |
@@ -94,8 +94,8 @@ This Audit Report presents the following results:
 
   Proposal to the Board of Elections: The new Election Analysis and Audit Program, run in Python, was successful in automating the election count process and accurately determining the winner. In order to use the Program for any future elections, we propose that it be updated and improved in these two example areas.:  
   
-  - Data entry: The script code can be modified with the ability to input data from any typical data source that the Board of Elections has avialable, with the example of manual data input that has been required from mail-in-ballots, whre the manual entry is included within the code as from a keyboard or touch screen.
-  - To test and improve the code for increased capacity and reliability. When the expectatio of using the automated solution for all counties in the state, there will be much higher data file sizes, and this will indicate an increased need for processing power and time. The code can be modified, or scaled up, and tested for reliability and accuracy for the time it will used for the entire state elections.
+  - Data entry: The script code can be modified with the ability to input data from any typical data source that the Board of Elections has available, with the example of manual data input that has been required from mail-in-ballots, where the manual entry is included within the code as from a keyboard or touch screen.
+  - To test and improve the code for increased capacity and reliability. With the expectation of using the automated solution for all counties in the state, there will be much higher data file sizes, and this will indicate an increased need for processing power and time. The code can be modified, or scaled up, and tested for reliability and accuracy for the time it will used for the entire state elections.
 
 
 ### Challenge Learnings
